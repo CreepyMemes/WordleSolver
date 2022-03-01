@@ -26,3 +26,8 @@ example: a
 example: .a
 ```
 
+#### Sample input
+```
+a.fI.de
+```
+
