@@ -28,6 +28,6 @@ example: .a
 
 #### Sample input
 ```
-a.fI.de
+guess: a.fI.de
 ```
 
