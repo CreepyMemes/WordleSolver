@@ -28,6 +28,6 @@ example: .a
 
 #### Sample input
 ```
-guess: a.fI.de
+[ guess: a.fI.de ] -> wrong position[a, e] / right posotion[i] / not present[f,d]
 ```
 
